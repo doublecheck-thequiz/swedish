@@ -340,7 +340,7 @@ a:hover.sottolineatura {
 
 #PrevVIOLA {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 100%;
   cursor: pointer;
 }
 
@@ -353,7 +353,7 @@ a:hover.sottolineatura {
 
 #PrevCYAN {
   margin-left: 1.5rem;
-  width: 63%;
+  width:  100%;
   cursor: pointer;
 }
 
@@ -366,7 +366,7 @@ a:hover.sottolineatura {
 
 #PrevGREEN {
   margin-left: 1.5rem;
-  width: 63%;
+  width:  100%;
   cursor: pointer;
 }
 
@@ -379,7 +379,7 @@ a:hover.sottolineatura {
 
 #PrevYELLOW {
   margin-left: 1.5rem;
-  width: 63%;
+  width:  100%;
   cursor: pointer;
   margin-bottom: -14.5rem;
 }
