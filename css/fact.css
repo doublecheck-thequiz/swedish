@@ -217,7 +217,7 @@ a:hover {
 .cls-10 {
   font-size: 40px;
   fill: #1d1d1b;
-  font-family: BandeinsStrangeBold, Bandeins Strange;
+  font-family: var(--font-bold);
 }
 
 .cls-11 {
@@ -568,10 +568,11 @@ a:hover {
 }
 
 .buttons {
-  width: 20%;
+  width: 30%;
   float: right;
   position: fixed;
-  left: 79%;
+  left: 68%;
+  top: 90%;
 }
 
 /* Transizione */
