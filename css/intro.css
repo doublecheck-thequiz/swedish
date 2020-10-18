@@ -25,7 +25,7 @@
   background-color: var(--white);
   margin: 0px;
   height: 100%;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 #lottie {
@@ -108,7 +108,7 @@ html {}
 
 html, body {
   height: 100%;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 footer .container-fluid {
